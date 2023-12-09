@@ -1,8 +1,9 @@
 ---
 external: false
-title: "First Blog"
+title: "blog-template"
 description: "You can author content using the familiar markdown syntax you already know. All basic markdown syntax is supported."
-date: 2022-11-02
+date: 2019-11-11
+hidden: true
 ---
 
 Markdown is powered by [Markdoc](https://markdoc.dev/). This is an example post to demonstrate all the basic markdown syntax. You can author content using the familiar markdown syntax you already know.

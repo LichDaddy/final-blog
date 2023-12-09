@@ -1,12 +1,13 @@
 ---
 external: false
-title: "extended-markdown-style-guide"
+title: "Pioneer Blog"
 description: "In addition to supporting all basic Markdoc syntax, this template also supports extended markdown syntax to render custom components."
-date: 2019-11-11
+date: 2023-12-08
 ---
 
-This blog's markdown is powered by [Markdoc](https://markdoc.dev/). In addition to supporting all basic markdown syntax, this blog also supports extended syntax to render custom components that are not conventionally available via basic markdown. This post is an example to showcase all available extended markdown syntax.
+Modern has gone through some rececnt [bans](https://magic.wizards.com/en/news/announcements/december-4-2023-banned-and-restricted-announcement) on December 4th shaking up the format the deck I played was effected with the recent ban on [Fury](https://scryfall.com/card/mh2/126/fury). What does this mean for the format? Well it is my belief that creature decks are going to be more playable in the format. What conclusion do I draw from this? I believe the most powerful thing that you can be doing is the clear winner from this ban that was being oppressed by the card [Fury](https://scryfall.com/card/mh2/126/fury) which is the [Yawgmoth](https://scryfall.com/card/mh1/116/yawgmoth-thran-physician) deck.
 
+## Yamgmoth
 ## YouTube Video
 
 You can embed YouTube videos in your blog posts.
