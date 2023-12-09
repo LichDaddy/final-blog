@@ -1,11 +1,11 @@
 ---
 external: false
-title: "Modern Blog"
+title: "First Blog"
 description: "You can author content using the familiar markdown syntax you already know. All basic markdown syntax is supported."
-date: 2023-12-07
+date: 2022-11-02
 ---
 
-Modern has gone through some rececnt [bans](https://magic.wizards.com/en/news/announcements/december-4-2023-banned-and-restricted-announcement) on December 4th shaking up the format the deck I played was effected with the recent ban on [Fury](https://scryfall.com/card/mh2/126/fury). What does this mean for the format? Well it is my belief that 
+Markdown is powered by [Markdoc](https://markdoc.dev/). This is an example post to demonstrate all the basic markdown syntax. You can author content using the familiar markdown syntax you already know.
 
 ## Inline formatting
 
