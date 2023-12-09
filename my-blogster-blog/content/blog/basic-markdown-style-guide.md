@@ -93,3 +93,6 @@ Syntax highlighting is done using [Prism.js](https://github.com/PrismJS/prism). 
 ## Images
 
 ![Blogster](/images/blogster.png)
+
+![Image Description](https://cards.scryfall.io/large/front/d/6/d6fb929c-1b8d-4d1d-aa69-ac6189cd7ebf.jpg?1690016831)
+
