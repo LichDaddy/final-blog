@@ -26,3 +26,7 @@ You can embed tweets in your blog posts.
 ## The deck I will play for RC Atlanta
 
 ![RakSac](https://i.imgur.com/OUBEzum.jpg)
+
+#### Why am I choosing Rakdos Sacrifice?
+
+The biggest reason I am choosing to play Rakdos Sacrifice is because I believe it is the best Copter deck to combat other Copter deck put simply. 

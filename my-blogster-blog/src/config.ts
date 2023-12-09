@@ -3,8 +3,8 @@
 
 export const SITE_TITLE = "My Magic Blog";
 export const SITE_DESCRIPTION =
-  "Welcome to my blog! I write about modern web development.";
-export const TWITTER_HANDLE = "@yourtwitterhandle";
+  "Welcome to my blog! My Competitive MtG Journey.";
+export const TWITTER_HANDLE = "@MichaelCrits";
 export const MY_NAME = "My Magic Blog";
 
 // setup in astro.config.mjs
