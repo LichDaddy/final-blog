@@ -3,7 +3,7 @@
 
 export const SITE_TITLE = "My Magic Blog";
 export const SITE_DESCRIPTION =
-  "Welcome to my blog! My Competitive MtG Journey.";
+  "Welcome to my blog! I Write about my Competitive MtG Journey.";
 export const TWITTER_HANDLE = "@MichaelCrits";
 export const MY_NAME = "My Magic Blog";
 
