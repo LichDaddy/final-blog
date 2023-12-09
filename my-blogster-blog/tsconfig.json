@@ -3,6 +3,8 @@
   "display": "theme/newspaper",
   "compilerOptions": {
     "types": ["astro/client"],
-    "baseUrl": "."
+    "baseUrl": ".",
+    "verbatimModuleSyntax": true, // Use this instead of 'importsNotUsedAsValues'
+    "ignoreDeprecations": "5.0" // Add this to silence deprecation warnings
   }
 }
