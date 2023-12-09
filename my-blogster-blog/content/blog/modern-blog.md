@@ -1,7 +1,7 @@
 ---
 external: false
 title: "Modern Blog"
-description: "You can author content using the familiar markdown syntax you already know. All basic markdown syntax is supported."
+description: "Brief discussion on the Modern format."
 date: 2023-12-07
 ---
 

@@ -1,7 +1,7 @@
 ---
 external: false
 title: "Pioneer Blog"
-description: "In addition to supporting all basic Markdoc syntax, this template also supports extended markdown syntax to render custom components."
+description: "Brief discussion about my approach to the Pioneer format."
 date: 2023-12-08
 ---
 

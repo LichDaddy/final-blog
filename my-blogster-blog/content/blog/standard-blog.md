@@ -1,7 +1,7 @@
 ---
 external: false
 title: "Standard Blog"
-description: "Code blocks are syntax highlighted using Prism.js"
+description: "Brief discussion on the Standard format."
 date: 2023-12-09
 ---
 
