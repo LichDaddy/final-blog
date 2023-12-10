@@ -41,7 +41,6 @@ Paragraphs can be multiline too when they constitute words that make up more tha
 ## Blockquotes
 
 > This is a blockquote. And it's pretty long too. Long enough to wrap to next line. Surely it will wrap.
-
 > You can use other Markdown syntax like `inline code` within a blockquote.
 
 ## Tables
@@ -96,4 +95,3 @@ Syntax highlighting is done using [Prism.js](https://github.com/PrismJS/prism). 
 ![Blogster](/images/blogster.png)
 
 ![Image Description](https://cards.scryfall.io/large/front/d/6/d6fb929c-1b8d-4d1d-aa69-ac6189cd7ebf.jpg?1690016831)
-
