@@ -30,3 +30,5 @@ You can embed tweets in your blog posts.
 #### Why am I choosing Rakdos Sacrifice?
 
 The biggest reason I am choosing to play Rakdos Sacrifice is because I believe it is the best Copter deck to combat other Copter deck put simply.
+My favorite new card in the deck that is proving to be such a great card is [Inti, Seneschal of the Sun](https://scryfall.com/card/lci/156/inti-seneschal-of-the-sun).
+This card really helps with the deck to be consistent while being able to stay on the axis of being aggressive. 
